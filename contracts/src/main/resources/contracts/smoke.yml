@@ -1,0 +1,6 @@
+name: smoke
+request:
+  method: GET
+  url: /smoke
+response:
+  status: 200
